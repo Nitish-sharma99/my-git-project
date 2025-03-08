@@ -1,1 +1,5 @@
 New feature code
+Conflicting change in conflict-branch
+Conflicting change in main
+Conflicting change in new-conflict-branch
+Conflicting change in main branch
